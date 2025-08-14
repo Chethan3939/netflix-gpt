@@ -2,6 +2,12 @@
 
 - create react app
 - config tailwind css
+- config route
+- create sign-in/signup app page
+- add Validation
+- Install firebase and config
+- then Deploy app to production
+- create sign-up user
 
 
 # wireframe
